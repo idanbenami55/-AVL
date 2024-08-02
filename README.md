@@ -7,6 +7,8 @@ Motivation: To reduce the worst-case time complexity for search, insert, and del
 ![image](https://github.com/user-attachments/assets/e3b975e9-d8ae-4f0a-911b-a26eb050e98b)
 
 
+![image](https://github.com/user-attachments/assets/9e4ac839-499b-4deb-8786-12c183aa1fb0)
+
 
     Methods:
     class Node:
