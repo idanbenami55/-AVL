@@ -1,7 +1,17 @@
 AVL Trees Project
 
 
+Implementing an AVL tree, a self-balancing binary search tree, using rotation methods and maintaining the balance factor of each node.
+Motivation: To reduce the worst-case time complexity for search, insert, and delete operations to O(log n).
 
+
+![image](https://github.com/user-attachments/assets/4bfc44f1-e2a1-47c4-b197-7473a33b0dd9)
+
+
+
+
+
+Methods:
     class Node:
         def __init__(self, key, value):
             """
