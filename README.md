@@ -4,7 +4,8 @@ AVL Trees Project
 Implementing an AVL tree, a self-balancing binary search tree, using rotation methods and maintaining the balance factor of each node.
 Motivation: To reduce the worst-case time complexity for search, insert, and delete operations to O(log n).
 
-![image](https://github.com/user-attachments/assets/75be565a-6e4b-4a37-a42f-4d0451635f25)
+![image](https://github.com/user-attachments/assets/e3b975e9-d8ae-4f0a-911b-a26eb050e98b)
+
 
 
     Methods:
